@@ -1,78 +1,111 @@
-c:\Users\ktjones\Documents\Visual Studio 2013\Projects\2048\2048\bld\Debug\platforms\android\ant-build\CordovaApp.ap_ \
- : c:\Users\ktjones\Documents\Visual Studio 2013\Projects\2048\2048\bld\Debug\platforms\android\res\drawable\icon.png \
-c:\Users\ktjones\Documents\Visual Studio 2013\Projects\2048\2048\bld\Debug\platforms\android\res\drawable-hdpi\icon.png \
-c:\Users\ktjones\Documents\Visual Studio 2013\Projects\2048\2048\bld\Debug\platforms\android\res\drawable-land-hdpi\screen.png \
-c:\Users\ktjones\Documents\Visual Studio 2013\Projects\2048\2048\bld\Debug\platforms\android\res\drawable-land-ldpi\screen.png \
-c:\Users\ktjones\Documents\Visual Studio 2013\Projects\2048\2048\bld\Debug\platforms\android\res\drawable-land-mdpi\screen.png \
-c:\Users\ktjones\Documents\Visual Studio 2013\Projects\2048\2048\bld\Debug\platforms\android\res\drawable-land-xhdpi\screen.png \
-c:\Users\ktjones\Documents\Visual Studio 2013\Projects\2048\2048\bld\Debug\platforms\android\res\drawable-ldpi\icon.png \
-c:\Users\ktjones\Documents\Visual Studio 2013\Projects\2048\2048\bld\Debug\platforms\android\res\drawable-mdpi\icon.png \
-c:\Users\ktjones\Documents\Visual Studio 2013\Projects\2048\2048\bld\Debug\platforms\android\res\drawable-port-hdpi\screen.png \
-c:\Users\ktjones\Documents\Visual Studio 2013\Projects\2048\2048\bld\Debug\platforms\android\res\drawable-port-ldpi\screen.png \
-c:\Users\ktjones\Documents\Visual Studio 2013\Projects\2048\2048\bld\Debug\platforms\android\res\drawable-port-mdpi\screen.png \
-c:\Users\ktjones\Documents\Visual Studio 2013\Projects\2048\2048\bld\Debug\platforms\android\res\drawable-port-xhdpi\screen.png \
-c:\Users\ktjones\Documents\Visual Studio 2013\Projects\2048\2048\bld\Debug\platforms\android\res\drawable-xhdpi\icon.png \
-c:\Users\ktjones\Documents\Visual Studio 2013\Projects\2048\2048\bld\Debug\platforms\android\res\values\strings.xml \
-c:\Users\ktjones\Documents\Visual Studio 2013\Projects\2048\2048\bld\Debug\platforms\android\res\xml\config.xml \
-c:\Users\ktjones\Documents\Visual Studio 2013\Projects\2048\2048\bld\Debug\platforms\android\ant-build\res\drawable\icon.png \
-c:\Users\ktjones\Documents\Visual Studio 2013\Projects\2048\2048\bld\Debug\platforms\android\ant-build\res\drawable-hdpi\icon.png \
-c:\Users\ktjones\Documents\Visual Studio 2013\Projects\2048\2048\bld\Debug\platforms\android\ant-build\res\drawable-land-hdpi\screen.png \
-c:\Users\ktjones\Documents\Visual Studio 2013\Projects\2048\2048\bld\Debug\platforms\android\ant-build\res\drawable-land-ldpi\screen.png \
-c:\Users\ktjones\Documents\Visual Studio 2013\Projects\2048\2048\bld\Debug\platforms\android\ant-build\res\drawable-land-mdpi\screen.png \
-c:\Users\ktjones\Documents\Visual Studio 2013\Projects\2048\2048\bld\Debug\platforms\android\ant-build\res\drawable-land-xhdpi\screen.png \
-c:\Users\ktjones\Documents\Visual Studio 2013\Projects\2048\2048\bld\Debug\platforms\android\ant-build\res\drawable-ldpi\icon.png \
-c:\Users\ktjones\Documents\Visual Studio 2013\Projects\2048\2048\bld\Debug\platforms\android\ant-build\res\drawable-mdpi\icon.png \
-c:\Users\ktjones\Documents\Visual Studio 2013\Projects\2048\2048\bld\Debug\platforms\android\ant-build\res\drawable-port-hdpi\screen.png \
-c:\Users\ktjones\Documents\Visual Studio 2013\Projects\2048\2048\bld\Debug\platforms\android\ant-build\res\drawable-port-ldpi\screen.png \
-c:\Users\ktjones\Documents\Visual Studio 2013\Projects\2048\2048\bld\Debug\platforms\android\ant-build\res\drawable-port-mdpi\screen.png \
-c:\Users\ktjones\Documents\Visual Studio 2013\Projects\2048\2048\bld\Debug\platforms\android\ant-build\res\drawable-port-xhdpi\screen.png \
-c:\Users\ktjones\Documents\Visual Studio 2013\Projects\2048\2048\bld\Debug\platforms\android\ant-build\res\drawable-xhdpi\icon.png \
-c:\Users\ktjones\Documents\Visual Studio 2013\Projects\2048\2048\bld\Debug\platforms\android\assets\www \
-c:\Users\ktjones\Documents\Visual Studio 2013\Projects\2048\2048\bld\Debug\platforms\android\assets\_where-is-www.txt \
-c:\Users\ktjones\Documents\Visual Studio 2013\Projects\2048\2048\bld\Debug\platforms\android\assets\www\cordova.js \
-c:\Users\ktjones\Documents\Visual Studio 2013\Projects\2048\2048\bld\Debug\platforms\android\assets\www\cordova_plugins.js \
-c:\Users\ktjones\Documents\Visual Studio 2013\Projects\2048\2048\bld\Debug\platforms\android\assets\www\css \
-c:\Users\ktjones\Documents\Visual Studio 2013\Projects\2048\2048\bld\Debug\platforms\android\assets\www\favicon.ico \
-c:\Users\ktjones\Documents\Visual Studio 2013\Projects\2048\2048\bld\Debug\platforms\android\assets\www\images \
-c:\Users\ktjones\Documents\Visual Studio 2013\Projects\2048\2048\bld\Debug\platforms\android\assets\www\index.html \
-c:\Users\ktjones\Documents\Visual Studio 2013\Projects\2048\2048\bld\Debug\platforms\android\assets\www\Project_Readme.html \
-c:\Users\ktjones\Documents\Visual Studio 2013\Projects\2048\2048\bld\Debug\platforms\android\assets\www\scripts \
-c:\Users\ktjones\Documents\Visual Studio 2013\Projects\2048\2048\bld\Debug\platforms\android\assets\www\VSBuildInfo.xml \
-c:\Users\ktjones\Documents\Visual Studio 2013\Projects\2048\2048\bld\Debug\platforms\android\assets\www\css\fonts \
-c:\Users\ktjones\Documents\Visual Studio 2013\Projects\2048\2048\bld\Debug\platforms\android\assets\www\css\helpers.scss \
-c:\Users\ktjones\Documents\Visual Studio 2013\Projects\2048\2048\bld\Debug\platforms\android\assets\www\css\main.css \
-c:\Users\ktjones\Documents\Visual Studio 2013\Projects\2048\2048\bld\Debug\platforms\android\assets\www\css\main.scss \
-c:\Users\ktjones\Documents\Visual Studio 2013\Projects\2048\2048\bld\Debug\platforms\android\assets\www\css\fonts\clear-sans.css \
-c:\Users\ktjones\Documents\Visual Studio 2013\Projects\2048\2048\bld\Debug\platforms\android\assets\www\css\fonts\ClearSans-Bold-webfont.eot \
-c:\Users\ktjones\Documents\Visual Studio 2013\Projects\2048\2048\bld\Debug\platforms\android\assets\www\css\fonts\ClearSans-Bold-webfont.svg \
-c:\Users\ktjones\Documents\Visual Studio 2013\Projects\2048\2048\bld\Debug\platforms\android\assets\www\css\fonts\ClearSans-Bold-webfont.woff \
-c:\Users\ktjones\Documents\Visual Studio 2013\Projects\2048\2048\bld\Debug\platforms\android\assets\www\css\fonts\ClearSans-Light-webfont.eot \
-c:\Users\ktjones\Documents\Visual Studio 2013\Projects\2048\2048\bld\Debug\platforms\android\assets\www\css\fonts\ClearSans-Light-webfont.svg \
-c:\Users\ktjones\Documents\Visual Studio 2013\Projects\2048\2048\bld\Debug\platforms\android\assets\www\css\fonts\ClearSans-Light-webfont.woff \
-c:\Users\ktjones\Documents\Visual Studio 2013\Projects\2048\2048\bld\Debug\platforms\android\assets\www\css\fonts\ClearSans-Regular-webfont.eot \
-c:\Users\ktjones\Documents\Visual Studio 2013\Projects\2048\2048\bld\Debug\platforms\android\assets\www\css\fonts\ClearSans-Regular-webfont.svg \
-c:\Users\ktjones\Documents\Visual Studio 2013\Projects\2048\2048\bld\Debug\platforms\android\assets\www\css\fonts\ClearSans-Regular-webfont.woff \
-c:\Users\ktjones\Documents\Visual Studio 2013\Projects\2048\2048\bld\Debug\platforms\android\assets\www\images\1024.jpg \
-c:\Users\ktjones\Documents\Visual Studio 2013\Projects\2048\2048\bld\Debug\platforms\android\assets\www\images\128.jpg \
-c:\Users\ktjones\Documents\Visual Studio 2013\Projects\2048\2048\bld\Debug\platforms\android\assets\www\images\16.jpg \
-c:\Users\ktjones\Documents\Visual Studio 2013\Projects\2048\2048\bld\Debug\platforms\android\assets\www\images\2.jpg \
-c:\Users\ktjones\Documents\Visual Studio 2013\Projects\2048\2048\bld\Debug\platforms\android\assets\www\images\2048.jpg \
-c:\Users\ktjones\Documents\Visual Studio 2013\Projects\2048\2048\bld\Debug\platforms\android\assets\www\images\256.jpg \
-c:\Users\ktjones\Documents\Visual Studio 2013\Projects\2048\2048\bld\Debug\platforms\android\assets\www\images\32.jpg \
-c:\Users\ktjones\Documents\Visual Studio 2013\Projects\2048\2048\bld\Debug\platforms\android\assets\www\images\4.jpg \
-c:\Users\ktjones\Documents\Visual Studio 2013\Projects\2048\2048\bld\Debug\platforms\android\assets\www\images\512.jpg \
-c:\Users\ktjones\Documents\Visual Studio 2013\Projects\2048\2048\bld\Debug\platforms\android\assets\www\images\64.jpg \
-c:\Users\ktjones\Documents\Visual Studio 2013\Projects\2048\2048\bld\Debug\platforms\android\assets\www\images\8.jpg \
-c:\Users\ktjones\Documents\Visual Studio 2013\Projects\2048\2048\bld\Debug\platforms\android\assets\www\scripts\android2.3-jscompat.js \
-c:\Users\ktjones\Documents\Visual Studio 2013\Projects\2048\2048\bld\Debug\platforms\android\assets\www\scripts\animframe_polyfill.js \
-c:\Users\ktjones\Documents\Visual Studio 2013\Projects\2048\2048\bld\Debug\platforms\android\assets\www\scripts\application.js \
-c:\Users\ktjones\Documents\Visual Studio 2013\Projects\2048\2048\bld\Debug\platforms\android\assets\www\scripts\bind_polyfill.js \
-c:\Users\ktjones\Documents\Visual Studio 2013\Projects\2048\2048\bld\Debug\platforms\android\assets\www\scripts\classlist_polyfill.js \
-c:\Users\ktjones\Documents\Visual Studio 2013\Projects\2048\2048\bld\Debug\platforms\android\assets\www\scripts\game_manager.js \
-c:\Users\ktjones\Documents\Visual Studio 2013\Projects\2048\2048\bld\Debug\platforms\android\assets\www\scripts\grid.js \
-c:\Users\ktjones\Documents\Visual Studio 2013\Projects\2048\2048\bld\Debug\platforms\android\assets\www\scripts\html_actuator.js \
-c:\Users\ktjones\Documents\Visual Studio 2013\Projects\2048\2048\bld\Debug\platforms\android\assets\www\scripts\keyboard_input_manager.js \
-c:\Users\ktjones\Documents\Visual Studio 2013\Projects\2048\2048\bld\Debug\platforms\android\assets\www\scripts\local_storage_manager.js \
-c:\Users\ktjones\Documents\Visual Studio 2013\Projects\2048\2048\bld\Debug\platforms\android\assets\www\scripts\platformOverrides.js \
-c:\Users\ktjones\Documents\Visual Studio 2013\Projects\2048\2048\bld\Debug\platforms\android\assets\www\scripts\tile.js \
-c:\Users\ktjones\Documents\Visual Studio 2013\Projects\2048\2048\bld\Debug\platforms\android\ant-build\AndroidManifest.xml \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\ant-build\CordovaApp.ap_ \
+ : C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\res\drawable\icon.png \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\res\drawable-hdpi\icon.png \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\res\drawable-land-hdpi\screen.png \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\res\drawable-land-ldpi\screen.png \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\res\drawable-land-mdpi\screen.png \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\res\drawable-land-xhdpi\screen.png \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\res\drawable-ldpi\icon.png \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\res\drawable-mdpi\icon.png \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\res\drawable-port-hdpi\screen.png \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\res\drawable-port-ldpi\screen.png \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\res\drawable-port-mdpi\screen.png \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\res\drawable-port-xhdpi\screen.png \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\res\drawable-xhdpi\icon.png \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\res\values\strings.xml \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\res\xml\config.xml \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\ant-build\res\drawable\icon.png \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\ant-build\res\drawable-hdpi\icon.png \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\ant-build\res\drawable-land-hdpi\screen.png \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\ant-build\res\drawable-land-ldpi\screen.png \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\ant-build\res\drawable-land-mdpi\screen.png \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\ant-build\res\drawable-land-xhdpi\screen.png \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\ant-build\res\drawable-ldpi\icon.png \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\ant-build\res\drawable-mdpi\icon.png \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\ant-build\res\drawable-port-hdpi\screen.png \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\ant-build\res\drawable-port-ldpi\screen.png \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\ant-build\res\drawable-port-mdpi\screen.png \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\ant-build\res\drawable-port-xhdpi\screen.png \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\ant-build\res\drawable-xhdpi\icon.png \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\assets\www \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\assets\_where-is-www.txt \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\assets\www\cordova.js \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\assets\www\cordova_plugins.js \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\assets\www\css \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\assets\www\favicon.ico \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\assets\www\images \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\assets\www\index.html \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\assets\www\Project_Readme.html \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\assets\www\scripts \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\assets\www\VSBuildInfo.xml \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\assets\www\css\fonts \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\assets\www\css\helpers.scss \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\assets\www\css\main.css \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\assets\www\css\main.scss \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\assets\www\css\fonts\clear-sans.css \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\assets\www\css\fonts\ClearSans-Bold-webfont.eot \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\assets\www\css\fonts\ClearSans-Bold-webfont.svg \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\assets\www\css\fonts\ClearSans-Bold-webfont.woff \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\assets\www\css\fonts\ClearSans-Light-webfont.eot \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\assets\www\css\fonts\ClearSans-Light-webfont.svg \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\assets\www\css\fonts\ClearSans-Light-webfont.woff \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\assets\www\css\fonts\ClearSans-Regular-webfont.eot \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\assets\www\css\fonts\ClearSans-Regular-webfont.svg \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\assets\www\css\fonts\ClearSans-Regular-webfont.woff \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\assets\www\images\1024.jpg \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\assets\www\images\128.jpg \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\assets\www\images\16.jpg \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\assets\www\images\2.jpg \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\assets\www\images\2048.jpg \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\assets\www\images\256.jpg \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\assets\www\images\32.jpg \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\assets\www\images\4.jpg \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\assets\www\images\512.jpg \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\assets\www\images\64.jpg \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\assets\www\images\8.jpg \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\assets\www\images\alternate \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\assets\www\images\alternate\numbers \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\assets\www\images\alternate\presidents \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\assets\www\images\alternate\numbers\1024.jpg \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\assets\www\images\alternate\numbers\128.jpg \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\assets\www\images\alternate\numbers\128.png \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\assets\www\images\alternate\numbers\16.jpg \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\assets\www\images\alternate\numbers\16.png \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\assets\www\images\alternate\numbers\2.jpg \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\assets\www\images\alternate\numbers\2.png \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\assets\www\images\alternate\numbers\2048.jpg \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\assets\www\images\alternate\numbers\256.jpg \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\assets\www\images\alternate\numbers\256.png \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\assets\www\images\alternate\numbers\32.jpg \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\assets\www\images\alternate\numbers\32.png \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\assets\www\images\alternate\numbers\4.jpg \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\assets\www\images\alternate\numbers\4.png \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\assets\www\images\alternate\numbers\512.jpg \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\assets\www\images\alternate\numbers\64.jpg \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\assets\www\images\alternate\numbers\64.png \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\assets\www\images\alternate\numbers\8.jpg \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\assets\www\images\alternate\numbers\8.png \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\assets\www\images\alternate\presidents\1024.jpg \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\assets\www\images\alternate\presidents\128.jpg \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\assets\www\images\alternate\presidents\16.jpg \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\assets\www\images\alternate\presidents\2.jpg \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\assets\www\images\alternate\presidents\2048.jpg \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\assets\www\images\alternate\presidents\256.jpg \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\assets\www\images\alternate\presidents\32.jpg \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\assets\www\images\alternate\presidents\4.jpg \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\assets\www\images\alternate\presidents\512.jpg \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\assets\www\images\alternate\presidents\64.jpg \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\assets\www\images\alternate\presidents\8.jpg \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\assets\www\scripts\android2.3-jscompat.js \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\assets\www\scripts\animframe_polyfill.js \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\assets\www\scripts\application.js \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\assets\www\scripts\bind_polyfill.js \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\assets\www\scripts\classlist_polyfill.js \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\assets\www\scripts\game_manager.js \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\assets\www\scripts\grid.js \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\assets\www\scripts\html_actuator.js \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\assets\www\scripts\keyboard_input_manager.js \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\assets\www\scripts\local_storage_manager.js \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\assets\www\scripts\platformOverrides.js \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\assets\www\scripts\tile.js \
+C:\Program Data\Programming\Projects\GitHub\taj2048\taj2048\bld\Debug\platforms\android\ant-build\AndroidManifest.xml \
